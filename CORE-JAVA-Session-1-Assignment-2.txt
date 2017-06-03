@@ -1,0 +1,8 @@
+Differentiate Between JVM, JDK and JRE
+
+
+JVM - (java virtual machine) is a software implementation of a computer that provide environment execute programs like real world.
+
+JDK - (Java Development Kit) is a  whole necessary tools to  create a java program.
+
+JRE - (Java Runtime Environment) which is provide us a same environment to run the program in different platforms which means we write program once and we can run as many as platform we want.
